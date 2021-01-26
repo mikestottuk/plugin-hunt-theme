@@ -1,0 +1,267 @@
+@media (min-width: 768px) {
+    .omb_row-sm-offset-3 div:first-child[class*="col-"] {
+        margin-left: 25%
+    }
+}
+.ph_bt {
+    text-align: center;
+    margin-top: 50px
+}
+.omb_login .fa {
+    color: #000
+}
+a:focus {
+    text-decoration: none
+}
+a {
+    color: #da552f;
+}
+a:hover {
+    text-decoration: none!important
+}
+.ph_socials a:focus {
+    text-decoration: none
+}
+.ph_login {
+    display: none
+}
+.ph-or-p {
+    text-align: center;
+    font-size: 13px
+}
+.ph-normally {
+    color: red;
+    text-decoration: underline
+}
+.ph_socials .ph-fb {
+    padding: 10px;
+    background-color: #2d609b;
+    color: #fff
+}
+.ph_socials .ph-tw {
+    padding: 10px;
+    background-color: #00c3f3;
+    color: #fff
+}
+.ph_socials {
+    text-align: center;
+    margin-bottom: 20px
+}
+.ph_socials .fa {
+    color: #fff;
+    padding: 5px;
+    margin-right: 5px
+}
+.omb_login .omb_authTitle {
+    text-align: center;
+    line-height: 300%
+}
+.omb_login .omb_socialButtons a {
+    color: #fff
+}
+.omb_login .omb_socialButtons a:hover {
+    color: #fff;
+    opacity: 1
+}
+.omb_login .omb_socialButtons .omb_btn-facebook {
+    background: #3b5998
+}
+.omb_login .omb_socialButtons .omb_btn-twitter {
+    background: #00aced
+}
+.omb_login .omb_socialButtons .omb_btn-google {
+    background: #c32f10
+}
+.omb_login .omb_loginOr {
+    position: relative;
+    font-size: 1.5em;
+    color: #aaa;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    padding-top: .5em;
+    padding-bottom: .5em
+}
+.omb_login .omb_loginOr .omb_hrOr {
+    background-color: #cdcdcd;
+    height: 1px;
+    margin-top: 0!important;
+    margin-bottom: 0!important
+}
+.omb_login .omb_loginOr .omb_spanOr {
+    display: block;
+    position: absolute;
+    left: 50%;
+    top: -.6em;
+    margin-left: -1.5em;
+    background-color: #fff;
+    width: 3em;
+    text-align: center
+}
+.omb_login .omb_loginForm .input-group.i {
+    width: 2em
+}
+.omb_login .omb_loginForm .help-block {
+    color: red
+}
+@media (min-width: 768px) {
+    .omb_login .omb_forgotPwd {
+        text-align: right;
+        margin-top: 10px
+    }
+}
+
+
+.ph_logged_out{
+		margin-top:0px;
+}
+.ph_logged_out .hentry, .ph_logged_out .white-splash{
+		background: rgba(218, 85, 47, 0) !important;
+		margin-top:0px;	
+}
+
+.newsociallogins{
+	margin-top: 32px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+ .entry-title{
+ 	display:none;
+ }
+
+.tml-registration-confirmation{
+	font-size:12px !important;
+}
+
+.ph_logged_out .home-footer, .ph_logged_out .ph-hero, .ph_logged_out .ph-hero-page{
+	display:none;
+}
+
+
+.tml-login, .tml-register, .tml-lostpassword{
+	background:white;
+	padding:20px;
+    box-shadow: 0 1px 1px #dae1e3;
+    max-width: 380px;
+    border-radius:10px;
+}
+
+.tml-user-email-wrap label{
+	display:none;
+}
+
+
+.tml-login .message, .tml-register .message, .tml-lostpassword .message{
+	margin-top:45px !important;
+	font-size:15px;
+}
+.entry-content{
+	position:relative;
+	margin-top:15px;
+}
+
+.ph_logged_out .discuss-switch-page{
+	display:none;
+}
+
+.sign-in{
+	font-size:40px;
+	text-align:center;
+	font-weight: 300;
+	margin-bottom:50px;
+	margin-top:-30px;
+	padding-bottom:30px;
+	color:white;
+}
+
+.ph_logged_out .white-splash{
+	margin-top:66px;
+}
+
+.tml-rememberme-wrap{
+	display:none !important;
+}
+
+.disclaimer{
+	display:none;
+}
+
+.loginlogo{
+	text-align:center;
+	width:95px;
+	height:95px;
+	background:white;
+	border-radius:50%;
+	margin: auto;
+    position: absolute;
+    top: 30px;
+    left: 50%;
+    margin-left: -45px;
+}
+.loginlogo img{
+	height:70px;
+	margin-top:12px;
+}
+
+.logged-in .ph-hero-page .nav li a{
+	color:white !important;
+}
+
+.logged-in .ph-hero-page li ul li a{
+	color:#da552f;
+}
+
+
+.logged-in .footer-2 .nav li a{
+	color: #8598a7 !important;
+}
+.logged-in .footer-2 .nav li a:hover{
+	color: white !important;
+}
+.ph2{
+	display:none;
+}
+
+		.loginlogom {
+		    text-align: center;
+		    width: 95px;
+		    height: 95px;
+		    background: white;
+		    border-radius: 50%;
+		    margin: auto;
+		    position: absolute;
+		    top: 140px !important;
+		    left: 50%;
+		    margin-left: -45px;
+		}
+
+.ph_logged_out .tml-user-pass1-wrap label, .ph_logged_out .tml-user-pass2-wrap label, .ph_logged_out .tml-user-email-wrap label, .ph_logged_out .tml-user-login-wrap label, .ph_logged_out .tml-user-pass-wrap label{
+    font-weight: 300;
+    font-size: 15px;
+    margin-top: -19px;
+    display:block;
+}
+.ph_logged_out .tml-user-login-wrap label{
+ 	margin-top:0px;
+ }
+
+    .tml-user-email-wrap label {
+        display: block !important;
+    }
+
+.sign-in{
+	display:none;
+}
+
+.ph_logged_out{
+	background: #f8f8f8 !important;
+}
+
+.ph_logged_out #theme-my-login{
+	margin-top:120px;
+	background: white;
+    padding: 20px;
+    box-shadow: 0px 1px 1px 1px #dae1e3;
+    max-width: 380px;
+    border-radius: 10px;
+}

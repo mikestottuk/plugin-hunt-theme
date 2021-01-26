@@ -1,0 +1,1373 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugin Hunt Theme\n"
+"POT-Creation-Date: 2015-10-29 23:03+0000\n"
+"PO-Revision-Date: 2016-02-08 11:42+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: archive-blog.php:57
+#, php-format
+msgid "Continue reading %s"
+msgstr "Seguir leyendo %s"
+
+#: archive-blog.php:62 single-blog.php:50
+msgid "Pages:"
+msgstr "Paginas:"
+
+#: archive-blog.php:66 archive-blog.php:87
+msgid "Page"
+msgstr "Página"
+
+#: archive-blog.php:74
+msgid "Edit"
+msgstr "Editar"
+
+#: archive-blog.php:85
+msgid "Previous page"
+msgstr "Pagina anterior"
+
+#: archive-blog.php:86
+msgid "Next page"
+msgstr "Siguiente página"
+
+#: archive-collections.php:18
+msgid "Featured Collections"
+msgstr "Colecciones destacadas"
+
+#: archive-collections.php:18
+msgid "Collections of great plugins, updated daily"
+msgstr "Colecciones de gran plugins, actualizado diariamente"
+
+#: author.php:72
+msgid "Unfollow"
+msgstr "No Seguir"
+
+#: author.php:74
+msgid "Follow"
+msgstr "Seguir"
+
+#: author.php:126 author.php:290 index.php:235 single-collections.php:184
+#: single_full.php:56
+msgid "Today"
+msgstr "Hoy"
+
+#: author.php:128 author.php:292 index.php:237 single-collections.php:186
+#: single_full.php:58
+msgid "Yesterday"
+msgstr "Ayer"
+
+#: category.php:240 search.php:264
+msgid "Nothing found"
+msgstr "Nada encontrado"
+
+#: category.php:248 index.php:418 search.php:272 single-collections.php:342
+#, php-format
+msgid "Show 1 more "
+msgid_plural "Show %s more "
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:45
+msgid "No comments yet."
+msgstr "No hay comentarios todavía."
+
+#: comments.php:55
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: content-login.php:20 footer-blog.php:34 footer.php:38
+msgid "Sign in with Twitter"
+msgstr "Inicia sesión con Twitter"
+
+#: content-login.php:24 footer-blog.php:39
+msgid "Sign in with Facebook"
+msgstr "Conectarse con Facebook"
+
+#: content-login.php:41
+msgid ""
+"Login failed: You have entered an incorrect Username or password, pease try "
+"again."
+msgstr ""
+"Error de Inicio de Sesión: Has introducido un nombre de usuario o contraseña "
+"incorrecto, por favor inténtalo de nuevo."
+
+#: content-login.php:64
+msgid "Login"
+msgstr "Iniciar Sesión"
+
+#: content-login.php:83
+msgid "Back to "
+msgstr "Volver a"
+
+#: footer-blog.php:24
+msgid "Hey there! Please sign in to do that."
+msgstr "¡ Hola allí! Por favor firme hacer eso."
+
+#: footer-blog.php:51
+msgid "Close"
+msgstr "Cerrar"
+
+#: footer.php:29
+msgid "Sign in to"
+msgstr "Iniciar sesión en"
+
+#: footer.php:29
+msgid "or create an account"
+msgstr "o cree una cuenta"
+
+#: footer.php:45
+msgid "Or, login"
+msgstr "o ingresa"
+
+#: footer.php:45
+msgid "normally"
+msgstr "normalmente"
+
+#: footer.php:50
+msgid "We will never post to Twitter or Facebook without your permission."
+msgstr "Nunca publicaremos en Twitter o Facebook sin su permiso."
+
+#: footer.php:73
+msgid "Add to Collection"
+msgstr "Agregar a la Categoría"
+
+#: footer.php:88
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: footer.php:101
+msgid "Add product media"
+msgstr "Añadir los medios de producto"
+
+#: footer.php:103
+msgid "Enter the URL of an image or YouTube video:"
+msgstr "Escriba la dirección URL de una imagen o un video de YouTube:"
+
+#: functions.php:349
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario esta en espera de ser moderado"
+
+#: functions.php:359
+msgid " Reply"
+msgstr "Responder"
+
+#: functions.php:363 single.php:375
+#, php-format
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr "Hace %s"
+
+#: functions.php:392
+msgctxt "post type general name"
+msgid "Collections"
+msgstr "Cobranzas"
+
+#: functions.php:393
+msgctxt "post type singular name"
+msgid "Collection"
+msgstr "Colección"
+
+#: functions.php:394
+msgctxt "admin menu"
+msgid "Collections"
+msgstr "Cobranzas"
+
+#: functions.php:395
+msgctxt "add new on admin bar"
+msgid "Collection"
+msgstr "Colección"
+
+#: functions.php:396 functions.php:833
+msgctxt "blog"
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: functions.php:397
+msgid "Add New Collection"
+msgstr "Añadir nueva Categoría"
+
+#: functions.php:398
+msgid "New Collection"
+msgstr "Nueva colección"
+
+#: functions.php:399
+msgid "Edit Collection"
+msgstr "Editar colección"
+
+#: functions.php:400
+msgid "View Collection"
+msgstr "Ver colección"
+
+#: functions.php:401
+msgid "All Collections"
+msgstr "Todas las colecciones"
+
+#: functions.php:402
+msgid "Search Collection"
+msgstr "Colección de búsqueda"
+
+#: functions.php:403
+msgid "Parent Collection:"
+msgstr "Colección de padres:"
+
+#: functions.php:404
+msgid "No collections found."
+msgstr "No colecciones encontradas."
+
+#: functions.php:405
+msgid "No collections found in Trash."
+msgstr "No colecciones encontradas en la basura."
+
+#: functions.php:829
+msgctxt "post type general name"
+msgid "Blogs"
+msgstr "Artículos"
+
+#: functions.php:830
+msgctxt "post type singular name"
+msgid "Blog"
+msgstr "Blog"
+
+#: functions.php:831
+msgctxt "admin menu"
+msgid "Blog"
+msgstr "Blog"
+
+#: functions.php:832
+msgctxt "add new on admin bar"
+msgid "Blog"
+msgstr "Blog"
+
+#: functions.php:834
+msgid "Add New Blog"
+msgstr "Añadir nueva entrada al blog"
+
+#: functions.php:835
+msgid "New Blog"
+msgstr "Nuevo Blog"
+
+#: functions.php:836
+msgid "Edit Blog"
+msgstr "Editar Blog"
+
+#: functions.php:837
+msgid "View Blog"
+msgstr "Ver todo"
+
+#: functions.php:838
+msgid "All Blogs"
+msgstr "Todos los Blogs"
+
+#: functions.php:839
+msgid "Search Blog"
+msgstr "Buscar en el Blog…"
+
+#: functions.php:840
+msgid "Parent Blog:"
+msgstr "Blog del padre:"
+
+#: functions.php:841
+msgid "No blogs found."
+msgstr "No blogs encontrados."
+
+#: functions.php:842
+msgid "No blogs found in Trash."
+msgstr "No blogs encontrados en la basura."
+
+#: functions.php:1019
+msgid "History Updated"
+msgstr "Historia actualizada"
+
+#: functions.php:1023
+msgid "Admin Tools"
+msgstr "Herramientas de administración"
+
+#: functions.php:1027
+msgid "Update post records to ensure all posts are displayed"
+msgstr "Actualización post registros para todos los mensajes se visualizan"
+
+#: functions.php:1028
+msgid "Only needed if upgrading from an earlier version"
+msgstr "Sólo es necesario si actualiza desde una versión anterior"
+
+#: functions.php:1032
+msgid "Update History"
+msgstr "Actualizar Historial"
+
+#: functions.php:1125 functions.php:1143
+msgid "Featured"
+msgstr "Destacado"
+
+#: functions.php:1139
+msgid "Check if this is a featured collection: "
+msgstr "Compruebe si se trata de una colección recomendada:"
+
+#: functions.php:1508
+msgid "External Link"
+msgstr "Enlace Externo"
+
+#: functions.php:1522
+msgid "External link that this post title redirects to"
+msgstr "Enlace externo que este título de post redirige a"
+
+#: functions.php:1605
+msgid "Someone has flagged"
+msgstr "Alguien ha marcado"
+
+#: functions.php:1607
+msgid "This is a note to let you know someone has flagged: "
+msgstr "Esta es una nota para hacerle saber que alguien ha marcado:"
+
+#: functions.php:1607
+msgid " as inappropriate. The reason is:  "
+msgstr "como inadecuado. La razón es:"
+
+#: functions.php:1650
+msgid "Check out"
+msgstr "Salida"
+
+#: functions.php:1652
+msgid "I thought you might be interested in "
+msgstr "He pensado que podría interesarle."
+
+#: functions.php:1652
+msgid " on "
+msgstr "en"
+
+#: functions.php:1885
+msgid "Blog settings"
+msgstr "Configuracion del blog"
+
+#: functions.php:1887
+msgid "Settings for the blog"
+msgstr "Configuración del blog"
+
+#: functions.php:1894 functions.php:2316 functions.php:2324
+msgid "Logo"
+msgstr "CV"
+
+#: functions.php:1908
+msgid "What is the title for your blog"
+msgstr "Cuál es el título de tu blog"
+
+#: functions.php:1922
+msgid "What is the tagline of your blog"
+msgstr "Cuál es el lema de tu blog"
+
+#: functions.php:1930
+msgid "General settings"
+msgstr "Configuración general"
+
+#: functions.php:1932
+msgid "General settings for the theme"
+msgstr "Configuración general para el tema"
+
+#: functions.php:1938
+msgid "Social settings"
+msgstr "Configuración de Redes Sociales"
+
+#: functions.php:1940
+msgid "Social settings for the theme"
+msgstr "Entornos sociales para el tema"
+
+#: functions.php:1951
+msgid "What is your tweet handle (without the @)"
+msgstr "Qué es el mango de tweet (sin la a)"
+
+#: functions.php:1965
+msgid "What is your Facbook App ID"
+msgstr "Qué es el ID de App de Facbook"
+
+#: functions.php:1994
+msgid "MailChimp form action URL"
+msgstr "MailChimp Formulario de Acción"
+
+#: functions.php:2008
+msgid "Mailchimp sign up message"
+msgstr "Mailchimp muestra mensaje"
+
+#: functions.php:2022
+msgid "What is your site about (e.g. plugin, product) enter the singluar here"
+msgstr ""
+"De qué trata su sitio web (plugin, producto) Introduzca el singular aquí"
+
+#: functions.php:2036
+msgid "What is your site about (e.g. plugins, products) enter the plural here"
+msgstr ""
+"Cuál es su sitio web sobre (por ejemplo, plugins, productos) introducir el "
+"plural aquí"
+
+#: functions.php:2049
+msgid "Message for load more"
+msgstr "Mensaje para la carga más"
+
+#: functions.php:2063
+msgid "The from on your email"
+msgstr "La de en su correo electrónico"
+
+#: functions.php:2078
+msgid "Message when all content loaded"
+msgstr "Mensaje cuando carga todo el contenido"
+
+#: functions.php:2092
+msgid "Message when grouping content"
+msgstr "Mensaje al agrupar contenido"
+
+#: functions.php:2100
+msgid "Message for logged out"
+msgstr "Mensaje registrado hacia fuera"
+
+#: functions.php:2120
+msgid "Submit new post form"
+msgstr "Enviar nuevos correos formulario"
+
+#: functions.php:2133
+msgid "Title"
+msgstr "Cargo"
+
+#: functions.php:2147
+msgid "Sub-title"
+msgstr "Subtítulo"
+
+#: functions.php:2161
+msgid "Call to Action"
+msgstr "Llamada a la Acción"
+
+#: functions.php:2171
+msgid "Success messages"
+msgstr "Mensajes de éxito"
+
+#: functions.php:2330
+msgid "Layout"
+msgstr "Diseño"
+
+#: functions.php:2339
+msgid "Post content"
+msgstr "Publicar contenido"
+
+#: functions.php:2910 includes/class-tgm-plugin-activation.php:161
+msgid "Install Required Plugins"
+msgstr "Instalar Plugins Requeridos"
+
+#: functions.php:2911 includes/class-tgm-plugin-activation.php:162
+msgid "Install Plugins"
+msgstr "Instalar Plugins"
+
+#: functions.php:2912 includes/class-tgm-plugin-activation.php:163
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalando Plugin: % s"
+
+#: functions.php:2913
+msgid "Something went wrong with the plugin API."
+msgstr "Algo salió mal con la API del plugin."
+
+#: functions.php:2914 includes/class-tgm-plugin-activation.php:165
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema requiere el siguiente plugin: %1$s."
+msgstr[1] ""
+
+#: functions.php:2915 includes/class-tgm-plugin-activation.php:166
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomienda el siguiente plugin: %1$s."
+msgstr[1] ""
+
+#: functions.php:2916 includes/class-tgm-plugin-activation.php:167
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+"Lo sentimos, pero Usted no tiene los permisos correctos para instalar el "
+"plugin %s. Póngase en contacto con el administrador de este sitio en busca "
+"de ayuda en conseguir el plugin instalado."
+msgstr[1] ""
+
+#: functions.php:2917 includes/class-tgm-plugin-activation.php:168
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin requerido está inactivo: %1$s."
+msgstr[1] ""
+
+#: functions.php:2918 includes/class-tgm-plugin-activation.php:169
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin recomendado está actualmente inactivo: %1$s."
+msgstr[1] ""
+
+#: functions.php:2919 includes/class-tgm-plugin-activation.php:170
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"Lo sentimos, pero Usted no tiene los permisos correctos para activar el "
+"plugin %s. Póngase en contacto con el administrador de este sitio en busca "
+"de ayuda en conseguir el plugin activado."
+msgstr[1] ""
+
+#: functions.php:2920 includes/class-tgm-plugin-activation.php:171
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"El siguiente plugin necesita ser actualizado a su última versión para "
+"asegurar la compatibilidad máxima con este tema: %1$s."
+msgstr[1] ""
+
+#: functions.php:2921 includes/class-tgm-plugin-activation.php:172
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"Lo sentimos, pero Usted no tiene los permisos correctos para actualizar el "
+"plugin %s. Póngase en contacto con el administrador de este sitio en busca "
+"de ayuda en conseguir el plugin actualizado."
+msgstr[1] ""
+
+#: functions.php:2922 includes/class-tgm-plugin-activation.php:173
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Comienza la instalación del plug-in"
+msgstr[1] ""
+
+#: functions.php:2923 includes/class-tgm-plugin-activation.php:174
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Comienza la activación del plug-in"
+msgstr[1] ""
+
+#: functions.php:2924 includes/class-tgm-plugin-activation.php:175
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al instalador de plugins requeridos"
+
+#: functions.php:2925 includes/class-tgm-plugin-activation.php:177
+#: includes/class-tgm-plugin-activation.php:1945
+msgid "Plugin activated successfully."
+msgstr "Plugin activado satisfactoriamente"
+
+#: functions.php:2926
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Todos los plugins instalados y activados con éxito. %s"
+
+#: functions.php:2994
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+"Ha ocurrido un error HTTP inesperado durante la petición a la API. </p><p><a "
+"href=“?” onclick=“document.location.reload(); return false;”>Inténtalo otra "
+"vez</a>"
+
+#: functions.php:2999
+msgid "An unknown error occurred"
+msgstr "Ha ocurrido un error desconocido."
+
+#: header-blog.php:100
+msgid "home"
+msgstr "inicio"
+
+#: header.php:154 searchform.php:5
+msgid "Search.."
+msgstr "Buscar.."
+
+#: header.php:196
+msgid "My Profile"
+msgstr "Mi perfil"
+
+#: header.php:197
+msgid "Logout"
+msgstr "Cerrar sesion"
+
+#: header.php:206
+msgid "Log in"
+msgstr "Iniciar sesión"
+
+#: header.php:318
+msgid "Upload an image"
+msgstr "Subir una imagen"
+
+#: header.php:334
+msgid "Posting on "
+msgstr "Publicar en"
+
+#: header.php:335
+msgid "An invite is needed to submit products"
+msgstr "Se necesita una invitación para presentar productos"
+
+#: header.php:339
+msgid ""
+"Plugin Hunt is a community of product enthusiasts. Submissions are accepted "
+"by our most active members, specifically those that have been invited by "
+"others in the community."
+msgstr ""
+"Plugin de Hunt es una comunidad de entusiastas del producto. Las "
+"presentaciones son aceptadas por nuestros miembros más activos, "
+"específicamente aquellos que han sido invitados por otros en la comunidad."
+
+#: header.php:343
+msgid "Learn more about invites"
+msgstr "Más información sobre invitaciones"
+
+#: inc/includes/class-options-framework-admin.php:91
+#: inc/includes/class-options-framework-admin.php:92
+msgid "Theme Options"
+msgstr "Opciones del Tema"
+
+#: inc/includes/class-options-framework-admin.php:199
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: inc/includes/class-options-framework-admin.php:200
+msgid "Restore Defaults"
+msgstr "Restablecer valores por defecto"
+
+#: inc/includes/class-options-framework-admin.php:200
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+"Haz Clic en OK para reiniciar. ¡Cualquier configuración del tema se perderá!"
+
+#: inc/includes/class-options-framework-admin.php:232
+msgid "Default options restored."
+msgstr "Opciones por defecto restauradas."
+
+#: inc/includes/class-options-framework-admin.php:286
+msgid "Options saved."
+msgstr "Opciones guardadas"
+
+#: inc/includes/class-options-media-uploader.php:62
+msgid "No file chosen"
+msgstr "Ningún archivo elegido"
+
+#: inc/includes/class-options-media-uploader.php:65
+#: inc/includes/class-options-media-uploader.php:118
+msgid "Upload"
+msgstr "Cargar"
+
+#: inc/includes/class-options-media-uploader.php:67
+#: inc/includes/class-options-media-uploader.php:119
+msgid "Remove"
+msgstr "Eliminar"
+
+#: inc/includes/class-options-media-uploader.php:70
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+"Actualice su versión de Wordpress para tener soporte multimedia completo."
+
+#: inc/includes/class-options-media-uploader.php:94
+msgid "View File"
+msgstr "Ver Archivo"
+
+#: inc/includes/class-options-sanitization.php:316
+msgid "No Repeat"
+msgstr "No repetir"
+
+#: inc/includes/class-options-sanitization.php:317
+msgid "Repeat Horizontally"
+msgstr "Repetir horizontalmente"
+
+#: inc/includes/class-options-sanitization.php:318
+msgid "Repeat Vertically"
+msgstr "Repetir verticalmente"
+
+#: inc/includes/class-options-sanitization.php:319
+msgid "Repeat All"
+msgstr "Repetir Todo"
+
+#: inc/includes/class-options-sanitization.php:331
+msgid "Top Left"
+msgstr "Superior Izquierda"
+
+#: inc/includes/class-options-sanitization.php:332
+msgid "Top Center"
+msgstr "Superior Centrada"
+
+#: inc/includes/class-options-sanitization.php:333
+msgid "Top Right"
+msgstr "Superior Derecha"
+
+#: inc/includes/class-options-sanitization.php:334
+msgid "Middle Left"
+msgstr "Al medio a la Izquierda"
+
+#: inc/includes/class-options-sanitization.php:335
+msgid "Middle Center"
+msgstr "Medio Centrado"
+
+#: inc/includes/class-options-sanitization.php:336
+msgid "Middle Right"
+msgstr "Al medio a la Derecha"
+
+#: inc/includes/class-options-sanitization.php:337
+msgid "Bottom Left"
+msgstr "Abajo Izquierda"
+
+#: inc/includes/class-options-sanitization.php:338
+msgid "Bottom Center"
+msgstr "Abajo al Centro"
+
+#: inc/includes/class-options-sanitization.php:339
+msgid "Bottom Right"
+msgstr "Abajo a la Derecha"
+
+#: inc/includes/class-options-sanitization.php:351
+msgid "Scroll Normally"
+msgstr "Desplazamiento Normal"
+
+#: inc/includes/class-options-sanitization.php:352
+msgid "Fixed in Place"
+msgstr "Fijo en el Lugar"
+
+#: inc/includes/class-options-sanitization.php:424
+msgid "Normal"
+msgstr "Normal"
+
+#: inc/includes/class-options-sanitization.php:425
+msgid "Italic"
+msgstr "Cursiva"
+
+#: inc/includes/class-options-sanitization.php:426
+msgid "Bold"
+msgstr "Bold"
+
+#: inc/includes/class-options-sanitization.php:427
+msgid "Bold Italic"
+msgstr "Negrita cursiva"
+
+#: inc/invite-list.php:23
+msgid "invite"
+msgstr "% s te invita a unirte % s ."
+
+#: inc/invite-list.php:24
+msgid "invites"
+msgstr "Invitar"
+
+#: inc/invite-list.php:48
+msgid "No one waiting yet."
+msgstr "Seguir leyendo %s"
+
+#: inc/invite-list.php:62
+msgid "Author"
+msgstr "Autor"
+
+#: inc/invite-list.php:62
+msgid "Contributor"
+msgstr "Colaborador"
+
+#: inc/invite-list.php:62
+msgid "Decline"
+msgstr "Negar"
+
+#: inc/invite-list.php:71
+msgid "Upgrade to Author"
+msgstr "Actualización al autor"
+
+#: inc/invite-list.php:71
+msgid "Upgrade to Contributer"
+msgstr "Actualización a preocuparnos"
+
+#: inc/invite-list.php:78
+msgid "ID"
+msgstr "ID"
+
+#: inc/invite-list.php:79
+msgid "Photo"
+msgstr "Foto"
+
+#: inc/invite-list.php:80
+msgid "Username"
+msgstr "Usuario"
+
+#: inc/invite-list.php:81
+msgid "User Level"
+msgstr "Nivel de Usuario"
+
+#: inc/invite-list.php:82
+msgid "Actions"
+msgstr "Acciones"
+
+#: inc/invite-list.php:101
+msgid "Make Author"
+msgstr "Hacer autor"
+
+#: inc/invite-list.php:102
+msgid "Make Contributor"
+msgstr "Hacer colaborador"
+
+#: includes/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr "Algo salió mal."
+
+#: includes/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr "Volver al escritorio"
+
+#: includes/class-tgm-plugin-activation.php:178
+#: includes/class-tgm-plugin-activation.php:1636
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "El siguiente plugin ha sido activado con éxito:"
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins instalados y activados correctamente. %1$s"
+
+#: includes/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr "Descartar esta noticia"
+
+#: includes/class-tgm-plugin-activation.php:534
+#: includes/class-tgm-plugin-activation.php:2162
+msgid "Return to the Dashboard"
+msgstr "Volver al Escritorio"
+
+#: includes/class-tgm-plugin-activation.php:1169
+msgid "Private Repository"
+msgstr "Repositorio privado"
+
+#: includes/class-tgm-plugin-activation.php:1172
+msgid "Pre-Packaged"
+msgstr "Producto per-empacado:"
+
+#: includes/class-tgm-plugin-activation.php:1177
+msgid "WordPress Repository"
+msgstr "Repositorio de wordpress"
+
+#: includes/class-tgm-plugin-activation.php:1180
+msgid "Required"
+msgstr "Requerido"
+
+#: includes/class-tgm-plugin-activation.php:1180
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: includes/class-tgm-plugin-activation.php:1183
+msgid "Not Installed"
+msgstr "No Instalado"
+
+#: includes/class-tgm-plugin-activation.php:1185
+msgid "Installed But Not Activated"
+msgstr "Instalado pero no activado"
+
+#: includes/class-tgm-plugin-activation.php:1290
+#: includes/class-tgm-plugin-activation.php:1398
+msgid "Install"
+msgstr "Instalar"
+
+#: includes/class-tgm-plugin-activation.php:1312
+#: includes/class-tgm-plugin-activation.php:1399
+msgid "Activate"
+msgstr "Activar"
+
+#: includes/class-tgm-plugin-activation.php:1361
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"No hay plugins para instalar o activar. <a href=“%1$s” title=“Regresar al "
+"Escritorio”>Regresar al Escritorio</a>"
+
+#: includes/class-tgm-plugin-activation.php:1377
+msgid "Plugin"
+msgstr "Plugin"
+
+#: includes/class-tgm-plugin-activation.php:1378
+msgid "Source"
+msgstr "Fuente"
+
+#: includes/class-tgm-plugin-activation.php:1379
+msgid "Type"
+msgstr "Tipo"
+
+#: includes/class-tgm-plugin-activation.php:1380
+msgid "Status"
+msgstr "Estado"
+
+#: includes/class-tgm-plugin-activation.php:1928
+msgid "Install package not available."
+msgstr "Paquete de instalación no disponible."
+
+#: includes/class-tgm-plugin-activation.php:1929
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+"Descargando el paquete de instalación desde <span class=“code”>%s</"
+"span>&#8230;"
+
+#: includes/class-tgm-plugin-activation.php:1930
+msgid "Unpacking the package&#8230;"
+msgstr "Desembalaje del paquete de …"
+
+#: includes/class-tgm-plugin-activation.php:1931
+msgid "Installing the plugin&#8230;"
+msgstr "Instalando el Plugin&#8230;"
+
+#: includes/class-tgm-plugin-activation.php:1932
+msgid "Plugin install failed."
+msgstr "La instalación del plugin falló"
+
+#: includes/class-tgm-plugin-activation.php:1933
+msgid "Plugin installed successfully."
+msgstr "Plugin instalado con éxito."
+
+#: includes/class-tgm-plugin-activation.php:1944
+msgid "Plugin activation failed."
+msgstr "Falló la activación del plugin"
+
+#: includes/class-tgm-plugin-activation.php:2058
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"El proceso de instalación y activación esta iniciando. Es proceso puede "
+"tomar tiempo en algunos servidores, por favor sea paciente."
+
+#: includes/class-tgm-plugin-activation.php:2059
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado satisfactoriamente."
+
+#: includes/class-tgm-plugin-activation.php:2059
+#: includes/class-tgm-plugin-activation.php:2068
+msgid "Show Details"
+msgstr "Mostrar Detalles"
+
+#: includes/class-tgm-plugin-activation.php:2059
+#: includes/class-tgm-plugin-activation.php:2068
+msgid "Hide Details"
+msgstr "Ocultar Detalles"
+
+#: includes/class-tgm-plugin-activation.php:2060
+msgid "All installations and activations have been completed."
+msgstr "Todas la instalaciones y activaciones se han completado."
+
+#: includes/class-tgm-plugin-activation.php:2061
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando y Activando Plugin %1$s (%2$d/%3$d)"
+
+#: includes/class-tgm-plugin-activation.php:2065
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"El proceso de instalación está comenzando. Este proceso puede tomar tiempo "
+"en algunos servidores, por favor, sea paciente."
+
+#: includes/class-tgm-plugin-activation.php:2066
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ocurrió un error durante la instalación %1$s: <strong>%2$s</strong>."
+
+#: includes/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "La instalación de %1$s ha fallado."
+
+#: includes/class-tgm-plugin-activation.php:2068
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s fue instalado con éxito."
+
+#: includes/class-tgm-plugin-activation.php:2069
+msgid "All installations have been completed."
+msgstr "Todas la instalaciones se han completado."
+
+#: includes/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando Plugin %1$s (%2$d/%3$d)"
+
+#: index.php:410
+msgid "No more"
+msgstr "No más"
+
+#: options.php:22
+msgid "One"
+msgstr "Uno"
+
+#: options.php:23
+msgid "Two"
+msgstr "Dos"
+
+#: options.php:24
+msgid "Three"
+msgstr "Tres"
+
+#: options.php:25
+msgid "Four"
+msgstr "Cuatro"
+
+#: options.php:26
+msgid "Five"
+msgstr "Cinco"
+
+#: options.php:31
+msgid "French Toast"
+msgstr "Torrija"
+
+#: options.php:32
+msgid "Pancake"
+msgstr "Panqueque"
+
+#: options.php:33
+msgid "Omelette"
+msgstr "Tortilla"
+
+#: options.php:34
+msgid "Crepe"
+msgstr "Crepe"
+
+#: options.php:35
+msgid "Waffle"
+msgstr "Rodolfo"
+
+#: options.php:96
+msgid "General"
+msgstr "General"
+
+#: options.php:101
+msgid "Site title"
+msgstr "Título del Sitio"
+
+#: options.php:102
+msgid "Your website title."
+msgstr "Título del sitio"
+
+#: options.php:110
+msgid "Tagline"
+msgstr "Descripción corta"
+
+#: options.php:111
+msgid "Website tagline."
+msgstr "Lema del sitio Web."
+
+#: options.php:118
+msgid "Mailchimp subscribe box"
+msgstr "MailChimp cuadro suscribirse"
+
+#: options.php:119
+msgid "Do you want to use the Mailchimp subscribe box."
+msgstr "¿Quieres utilizar el cuadro de MailChimp suscribirse."
+
+#: options.php:125
+msgid "Mailchimp Form Action URL"
+msgstr "MailChimp Formulario de Acción"
+
+#: options.php:126
+msgid "Enter your mailchimp sign up form action URL."
+msgstr "Escriba su inscripción form action URL MailChimp."
+
+#: options.php:134
+msgid "Color Scheme"
+msgstr "Цветовая схема"
+
+#: options.php:139
+msgid "Link and Highlight"
+msgstr "Enlace y a destacar"
+
+#: options.php:140 options.php:148 options.php:156 options.php:165
+#: options.php:173 options.php:181
+msgid "No color selected by default."
+msgstr "No hay color seleccionado por defecto."
+
+#: options.php:147
+msgid "Secondary color"
+msgstr "Color secundario"
+
+#: options.php:155
+msgid "Background color"
+msgstr "Color de fondo"
+
+#: options.php:164
+msgid "Color if voted"
+msgstr "Color si votado"
+
+#: options.php:172
+msgid "Color if not voted"
+msgstr "Color si no"
+
+#: options.php:180
+msgid "New post header color"
+msgstr "Nuevo color de cabecera después"
+
+#: options.php:188
+msgid "Member Options"
+msgstr "Opciones de Miembros"
+
+#: options.php:196
+msgid "Header"
+msgstr "Cabecera"
+
+#: options.php:202
+msgid "Main logo"
+msgstr "Logotipo principal"
+
+#: options.php:203
+msgid "What is your main website logo."
+msgstr "¿Cuál es tu sitio web principal logo."
+
+#: options.php:222
+msgid "Blog Layout"
+msgstr "Diseño del blog"
+
+#: options.php:228
+msgid "Blog Logo"
+msgstr "Logotipo de blog"
+
+#: options.php:229
+msgid "Logo to display on the blog page."
+msgstr "Logo para mostrar en la página del blog."
+
+#: options.php:248
+msgid "Blog Background"
+msgstr "Fondo de Etiqueta Blog"
+
+#: options.php:249
+msgid "Change the background."
+msgstr "Cambiar fondo"
+
+#: options.php:257 options.php:262
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: options.php:263
+msgid "Enter your custom CSS here."
+msgstr "Introducir CSS personalizado"
+
+#: register-form.php:12
+msgid "username"
+msgstr "nombre de usuario"
+
+#: register-form.php:15
+msgid "email"
+msgstr "correo electrónico"
+
+#: register-form.php:24
+msgid "A password will be e-mailed to you."
+msgstr "Te enviaremos una contraseña a tu email."
+
+#: register-form.php:26
+msgid "Register"
+msgstr "Registrarse"
+
+#: search.php:76
+msgid "result"
+msgstr "Resultado"
+
+#: search.php:78
+msgid "results"
+msgstr "resultados"
+
+#: search.php:86
+msgid "Products for "
+msgstr "Productos para"
+
+#: searchform.php:4
+msgid "Search this site:"
+msgstr "Busca en este sitio…"
+
+#: single-blog.php:19
+msgid "Featured post"
+msgstr "Publicación destacada"
+
+#: single-blog.php:38
+msgid "Leave a reply"
+msgstr "Deja un Comentario"
+
+#: single-blog.php:38
+msgid "1 Reply"
+msgstr "1 Respuesta"
+
+#: single-blog.php:38
+msgid "% Replies"
+msgstr "% respuestas"
+
+#: single-blog.php:49
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Leer más <span class=“meta-nav”>&rarr;</span>"
+
+#: single-blog.php:58
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: single-blog.php:59
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: single-collections.php:59 single-collections.php:97
+msgid "Describe the collection briefly"
+msgstr "Describa brevemente la colección"
+
+#: single.php:103 single.php:106
+msgid "Log in to vote"
+msgstr "Iniciar sesión"
+
+#: single.php:117
+msgid "media"
+msgstr "medios de comunicación"
+
+#: single.php:163
+msgid "No media yet. Be the first one to"
+msgstr "No hay medios yet. ¡Sé el primero en"
+
+#: single.php:163
+msgid "add media on this product"
+msgstr "Añadir los medios de comunicación sobre este producto"
+
+#: single.php:176 single.php:182
+msgid "Commenting is limited to those invited by others in the community"
+msgstr "Comentando se limita a los invitados por otros en la comunidad"
+
+#: single.php:176
+msgid " Login to continue"
+msgstr "Inicio de sesión para continuar"
+
+#: single.php:176
+msgid "or"
+msgstr "o"
+
+#: single.php:176
+msgid "learn more"
+msgstr "más información"
+
+#: single.php:188
+msgid "request access"
+msgstr "Solicitar datos de acceso"
+
+#: single.php:191
+msgid "You have been added to the waiting list."
+msgstr "Usted ha sido añadido a la lista de espera."
+
+#: single.php:193
+msgid "Questions? check out our"
+msgstr "¿Preguntas? visita nuestra"
+
+#: single.php:193
+msgid "FAQ"
+msgstr "Preguntas más frecuentes"
+
+#: single.php:207
+msgid "share"
+msgstr "compartir"
+
+#: single.php:241
+msgid "Upvotes"
+msgstr "Positivos"
+
+#: single.php:264 single.php:365
+msgid "View Profile"
+msgstr "Ver Perfil"
+
+#: single.php:281
+msgid "similar products"
+msgstr "Se necesita una invitación para presentar productos"
+
+#: single.php:314
+msgid "No similar products yet."
+msgstr "No hay productos similares todavía."
+
+#: single.php:334 single.php:392
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: single.php:334
+msgid "Submit"
+msgstr "Enviar"
+
+#: single.php:386
+msgid "Flag"
+msgstr "Registros"
+
+#: single.php:389
+msgid "Why should this be removed ?"
+msgstr "¿Por qué esto debe eliminarse?"
+
+#: single.php:390
+msgid "Thank you "
+msgstr "Gracias"
+
+#: single.php:390
+msgid " we have received your feedback"
+msgstr "hemos recibido sus comentarios"
+
+#: single.php:393
+msgid "Send"
+msgstr "Enviar"
+
+#: single_full.php:163
+msgid "Sorry, no posts matched your criteria."
+msgstr "Lo sentimos, no hay ninguna publicación que responda a tu búsqueda."
+
+#. Theme Name of the plugin/theme
+msgid "Plugin Hunt Theme"
+msgstr "Plugin caza Temática"
+
+#. Theme URI of the plugin/theme
+msgid "http://epicplugins.com/pluginhunt"
+msgstr "http://epicplugins.com/pluginhunt"
+
+#. Description of the plugin/theme
+msgid ""
+"Plugin Hunt Theme is a link curating theme for WordPress inspired by the "
+"design of Produt Hunt. It uses the power of WPeddit for the WordPress "
+"ranking algorihms. Grouped by day."
+msgstr ""
+"Plugin caza Theme es un tema comisariato enlace para WordPress inspirado en "
+"el diseño de Produt Hunt. Utiliza el poder de WPeddit para los algorihms "
+"ranking de WordPress. División por día."
+
+#. Author of the plugin/theme
+msgid "epicthemes"
+msgstr "epicthemes"
+
+#. Author URI of the plugin/theme
+msgid "http://epicthemes.com"
+msgstr "http://epicthemes.com"
